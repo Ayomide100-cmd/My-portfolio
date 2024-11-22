@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    color: white;
+    background-color: #323038;
+    margin: 30px;
+    font-family: "Hind", sans-serif;
+    
+}
+.first{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+    color: rgb(20, 199, 199);
+    margin: 0 0 100px 0;
+}
+.name{
+    margin: 0 800px 0 0;
+    color: rgb(20, 199, 199);
+}
+a{
+    text-decoration: none;
+    color: rgb(20, 199, 199);
+}
+paragraph{
+    font-weight: lighter;
+    font-size: medium;
+    padding-right: 540px;
+    margin-top: 10px;
+;}

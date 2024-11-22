@@ -1,0 +1,72 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    color: white;
+    background-color: #323038;
+    margin: 20px 30px 0px 30px;
+    font-family: "Hind", sans-serif;
+    
+}
+.first{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+    margin: 0 0 100px 0;
+}
+.name{
+    margin: 0 800px 0 0;
+    color: rgb(20, 199, 199)
+}
+.paragraph{
+    margin: 50px 0 0 0;
+    padding: 0 580px 0 0;
+    font-weight: lighter;
+    font-size: small;
+}
+.page{
+    margin: 20px;
+    box-shadow: 10px whitesmoke;
+}
+.clt{
+    font-weight: 500;
+    padding-top: 40px;
+}
+.parag{
+    font-weight: lighter;
+    font-size: small;
+}
+.parag2{
+    font-weight: lighter;
+    font-size: small;
+    margin-top: 10px;
+}
+.target{
+    color: blueviolet;
+    margin-top: 10px;
+    font-size: small;
+}
+.2nd page{
+    margin: 20px;
+}
+.3rd page{
+    margin: 20px;
+}
+.4th page{
+    margin: 20px;
+}
+.5th page{
+    margin: 20px;
+}
+.last{
+    font-weight: lighter;
+    font-size: medium;
+    padding: 20px 0 0 60px;
+}
+a{
+    text-decoration: none;
+    color: rgb(20, 199, 199)
+}
